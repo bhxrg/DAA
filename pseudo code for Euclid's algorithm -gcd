@@ -1,0 +1,5 @@
+input of two integers m and n
+if n==0 stop else do(r=m%n)
+r=m%n
+m<-n
+n<-r

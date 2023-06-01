@@ -1,4 +1,4 @@
-//consecutive integer checking program
+//consecutive integer checking program for gcd of two numbers
 #include <stdio.h>
 #include<conio.h>
 int main()
